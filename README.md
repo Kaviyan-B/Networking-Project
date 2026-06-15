@@ -1,13 +1,13 @@
 
 # CCNA Networking Project – VLAN Segmentation with Router-on-a-Stick
 
-## 📌 Project Overview
+## 1. Project Overview
 
 This project demonstrates core **CCNA networking concepts** using **Cisco Packet Tracer**. The network is logically segmented using **VLANs** for different departments. **Inter-VLAN communication** is achieved using **Router-on-a-Stick (ROAS)**. **DHCP** is implemented for automatic IP assignment, an **Access Control List (ACL)** secures the server, and **port security** is used to prevent unauthorized devices.
 
 ---
 
-## 🌐 Network Topology
+## 2. Network Topology
 
 ### Devices Used
 
@@ -25,7 +25,7 @@ This project demonstrates core **CCNA networking concepts** using **Cisco Packet
 
 ---
 
-## 🏢 VLAN Design
+## 3. VLAN Design
 
 | Department | VLAN ID | Network        |
 | ---------- | ------- | -------------- |
